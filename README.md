@@ -1,4 +1,6 @@
 # Network Traffic Metrics
+
+### jrcichra/network-traffic-metrics - please use the influxdb rewrite of this Prometheus implimentation (written in Go) https://github.com/jrcichra/influx-network-traffic
 ---
 See all the inbound and outbound traffic for your network, broken down by server and client.
 
